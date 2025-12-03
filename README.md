@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>A.R CO.</title>
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>WELCOME TO A.R CO.</h1>
+<p>WE DESIGN WEB SITES AND CREATE SOFTWARE FOR BUSINESS PURPOSES</p>
 
 </body>
 </html>
